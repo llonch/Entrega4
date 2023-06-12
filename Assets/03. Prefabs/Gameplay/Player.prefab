@@ -33,6 +33,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4672480258800309918}
   m_Father: {fileID: 0}
@@ -97,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _rigidBody: {fileID: -8519614999060153307}
-  _speed: 5
+  _speed: 4
 --- !u!114 &-1044256374443538322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -111,6 +112,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _coinAudio: {fileID: 5821040610727002341}
+  _playerInput: {fileID: 0}
+  _pointsPerStandardCoin: 1
+  _pointsPerRelatedCoin: 3
 --- !u!114 &5595846625034703160
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -192,6 +196,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5768045366774765935}
   m_RootOrder: 0
