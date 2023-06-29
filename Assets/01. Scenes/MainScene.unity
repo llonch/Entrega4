@@ -2757,24 +2757,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _timerText: {fileID: 335855193}
---- !u!1 &339460042 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6532848685850716632, guid: ae7fe88678d0eae4193b9e922f5586f8, type: 3}
-  m_PrefabInstance: {fileID: 189250299}
-  m_PrefabAsset: {fileID: 0}
---- !u!65 &339460044
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 339460042}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.020000001, y: 0.020000001, z: 0.02}
-  m_Center: {x: 0.0000000037252903, y: 0.0000000037252903, z: 0}
 --- !u!1 &343841773 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 324777655911918739, guid: ae7fe88678d0eae4193b9e922f5586f8, type: 3}
