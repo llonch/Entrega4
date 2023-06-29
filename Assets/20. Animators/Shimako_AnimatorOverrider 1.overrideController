@@ -9,7 +9,5 @@ AnimatorOverrideController:
   m_Name: Shimako_AnimatorOverrider 1
   m_Controller: {fileID: 9100000, guid: 61cb027fb1a95714b83288caae858ddb, type: 2}
   m_Clips:
-  - m_OriginalClip: {fileID: -203655887218126122, guid: ac450f8d3e2802f4494f387c96f25329, type: 3}
-    m_OverrideClip: {fileID: -1422011007694221501, guid: 9ffba89a84a2d7a4c90df33d3d097295, type: 3}
-  - m_OriginalClip: {fileID: -203655887218126122, guid: a22f4ca7e57ecd446aef69d15b3ed13f, type: 3}
-    m_OverrideClip: {fileID: 4781951162920444690, guid: 8a04ee98c8c4b7044b4b22b67c6277f4, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: db68adea9f1632c4183c3a94611d0b27, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dfa0ca4c15c4f2f4a91f7169c2a97c87, type: 2}

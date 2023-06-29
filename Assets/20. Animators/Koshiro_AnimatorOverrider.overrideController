@@ -9,9 +9,5 @@ AnimatorOverrideController:
   m_Name: Koshiro_AnimatorOverrider
   m_Controller: {fileID: 9100000, guid: 61cb027fb1a95714b83288caae858ddb, type: 2}
   m_Clips:
-  - m_OriginalClip: {fileID: -203655887218126122, guid: ac450f8d3e2802f4494f387c96f25329, type: 3}
-    m_OverrideClip: {fileID: -1978303741906493279, guid: 8e5c6323a68b48e40a30b6d303fb7d20, type: 3}
-  - m_OriginalClip: {fileID: -203655887218126122, guid: a22f4ca7e57ecd446aef69d15b3ed13f, type: 3}
-    m_OverrideClip: {fileID: 27215865480147381, guid: 8e5c6323a68b48e40a30b6d303fb7d20, type: 3}
-  - m_OriginalClip: {fileID: -203655887218126122, guid: df70849d98250734293b00c02c2642b9, type: 3}
-    m_OverrideClip: {fileID: -203655887218126122, guid: 32d31c286a03af44c80c01c634a03cee, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: db68adea9f1632c4183c3a94611d0b27, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 440a66b7e5aa79c4384af79fdc8f3e3e, type: 2}
